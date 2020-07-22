@@ -1,0 +1,1 @@
+colocar um contador para ver o menor numero de jogadas para ganhar
