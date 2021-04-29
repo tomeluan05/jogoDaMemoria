@@ -14,11 +14,17 @@ body{
 	background-color: #c7cdd3;
 }
 .banner{
-    margin-top: 25px;
-    
+    margin-top: 20px;
+	display: flex;
 }
-.banner>img{
-    max-width: 300px;
+.banner img{
+    max-width: 100px;
+	border-radius: 50%;
+}
+
+.paragrafo-banner{
+	margin-top: 10px;
+	margin-left: 14px;
 }
 
 .card{
